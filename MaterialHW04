@@ -1,0 +1,6 @@
+package hw04;
+
+public enum Material {
+    WOOD, STEEL, CONCRETE, BRICK
+}
+
