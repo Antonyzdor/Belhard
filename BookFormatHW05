@@ -1,0 +1,6 @@
+package hw05;
+
+public enum BookFormat {
+    A5, A4, A3
+}
+
