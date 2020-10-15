@@ -1,0 +1,13 @@
+package hw04;
+
+public class Main {
+    public static void main(String[] args) {
+
+        Building building1 =
+                new Building(new Address("Vostochnaya", 22), Material.BRICK, 15, true);
+
+
+    }
+}
+
+
